@@ -1,0 +1,54 @@
+{
+  "859196138115563570": {
+    "user_id": "859196138115563570",
+    "username": "SpyderGims",
+    "level": 1,
+    "experience": 0,
+    "chakra": 100,
+    "health": 100,
+    "max_health": 100,
+    "max_chakra": 100,
+    "village": "Konoha",
+    "clan": null,
+    "jutsu": [],
+    "ryo": 1000,
+    "rank": "Étudiant de l'Académie",
+    "stats": {
+      "ninjutsu": 10,
+      "taijutsu": 10,
+      "genjutsu": 10,
+      "intelligence": 10,
+      "force": 10,
+      "vitesse": 10
+    },
+    "last_mission": null,
+    "inventory": [],
+    "clan_rerolls": 3
+  },
+  "852673253205999616": {
+    "user_id": "852673253205999616",
+    "username": "Elly",
+    "level": 1,
+    "experience": 0,
+    "chakra": 100,
+    "health": 100,
+    "max_health": 100,
+    "max_chakra": 100,
+    "village": "Suna",
+    "clan": null,
+    "jutsu": [],
+    "ryo": 1000,
+    "rank": "Étudiant de l'Académie",
+    "stats": {
+      "ninjutsu": 10,
+      "taijutsu": 10,
+      "genjutsu": 10,
+      "intelligence": 10,
+      "force": 10,
+      "vitesse": 10
+    },
+    "last_mission": null,
+    "inventory": [],
+    "clan_rerolls": 3
+  }
+}
